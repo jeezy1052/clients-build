@@ -10,7 +10,7 @@ const Review = () => {
   });
   console.log(errors)
   return (
-    <div className=" bg-green-200 w-100 h-screen grid gap-8 grid-cols-2 grid-rows-1 justify-items-center justify-center ">
+    <div className=" bg-green-100 w-100 h-screen grid gap-8 grid-cols-2 grid-rows-1 justify-items-center justify-center ">
     <div className="text-center md:max-w-lg p-5">
       <h1  className="text-4xl font-bold font-[Poppins] text-green-900 mb-2">Leave a Review Today</h1>
       <h2  className="text-3xl font-bold font-[Poppins] text-green-900 mb-2">Tell us what you think.</h2>
